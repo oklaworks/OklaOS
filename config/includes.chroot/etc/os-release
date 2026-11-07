@@ -1,0 +1,10 @@
+PRETTY_NAME="OklaOS 1.0 (Debian 13)"
+NAME="OklaOS"
+VERSION_ID="1.0"
+VERSION="1.0 (Debian 13 Trixie)"
+VERSION_CODENAME=trixie
+ID=oklaos
+ID_LIKE=debian
+HOME_URL="https://github.com/oklaworks/OklaOS"
+SUPPORT_URL="https://github.com/oklaworks/OklaOS/issues"
+BUG_REPORT_URL="https://github.com/oklaworks/OklaOS/issues"

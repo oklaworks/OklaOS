@@ -1,0 +1,5 @@
+#!/bin/sh
+set -eu
+printf '%s\n' 'OklaOS 1.0 | Oklaworks®' 'Base: Debian 13 (Trixie)' 'Interface: Openbox' 'Site: https://github.com/oklaworks/OklaOS'
+printf 'Kernel: '
+uname -r
