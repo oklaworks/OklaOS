@@ -1,0 +1,4 @@
+command -v tint2 >/dev/null 2>&1 && tint2 &
+command -v nm-applet >/dev/null 2>&1 && nm-applet &
+command -v xfce4-power-manager >/dev/null 2>&1 && xfce4-power-manager &
+command -v pcmanfm >/dev/null 2>&1 && pcmanfm --desktop &
